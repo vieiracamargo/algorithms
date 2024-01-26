@@ -1,5 +1,3 @@
-import java.util.stream.Collectors;
-
 public class ComplementaryDna {
     public static void main(String[] args) {
         var value = "ATTGC";
